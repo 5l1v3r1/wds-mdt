@@ -1,0 +1,1 @@
+http://blogs.technet.com/b/mniehaus/archive/2012/08/24/copying-oem-files-and-folders-with-mdt-2012-update-1.aspx
